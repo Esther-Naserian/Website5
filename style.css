@@ -1,0 +1,94 @@
+
+@media screen{
+#container2{
+display: flex;
+justify-content: space-between;
+justify-content: left;
+gap: 2%;
+}
+}
+@media screen{
+#container3{
+justify-content: center;
+}
+}
+@media screen{
+#container4{
+display: flex;
+justify-content: right;
+}
+}
+@media screen{
+#container5{
+margin-left: 20%;
+}
+}
+@media screen{
+#container6{
+display: flex;
+justify-content:;
+gap: 2%;
+margin-left: 20%;
+}
+}
+@media screen{
+button1{
+width: 50%;
+color: black;
+}
+}
+@media screen{
+#container7{
+display: flex;
+justify-content: space-between;
+margin-left: 20%;
+}
+}
+@media screen{
+#container10{
+display: flex;
+gap: 2%;
+}
+}
+@media screen{
+#container11{
+display: flex;
+justify-content:space-evenly ;
+gap: 2%;
+margin-left: 20%;
+}
+}
+@media screen{
+#container12{
+display: flex;
+justify-content: space-evenly;
+}
+}
+@media screen{
+#container13{
+display: flex;
+}
+}
+@media screen{
+#container14{
+display: flex;
+}
+}
+@media screen{
+#page1{
+display: flex;
+justify-content: space-evenly;
+}
+}
+@media screen{
+#size{
+margin-block-end: 0;
+
+}
+}
+ @media screen{
+#page2{
+display: flex;
+gap:2% ;
+}
+}
