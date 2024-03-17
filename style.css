@@ -1,94 +1,79 @@
 
-@media screen{
+#navbar{
+display: flex;
+gap: 2%;
+margin-left: 20%;
+}
 #container2{
 display: flex;
 justify-content: space-between;
-justify-content: left;
-gap: 2%;
+flex-direction: row;
 }
+#text{
+margin-top: 10%;
+margin-left: 20%;
 }
-@media screen{
-#container3{
+button{
+background-color: black;
+color: white;
+width: 100%;
+height: 5vh;
+}
+#sentence{
+display: flex;
+gap: 3%;
+}
+#sentence2{
+display: flex;
 justify-content: center;
+gap: 3%;
 }
+#container3{
+display: flex;
 }
-@media screen{
 #container4{
 display: flex;
-justify-content: right;
 }
-}
-@media screen{
 #container5{
-margin-left: 20%;
-}
-}
-@media screen{
-#container6{
 display: flex;
-justify-content:;
-gap: 2%;
-margin-left: 20%;
 }
-}
-@media screen{
-button1{
+button{
+background-color: black;
 width: 50%;
-color: black;
 }
-}
-@media screen{
 #container7{
 display: flex;
-justify-content: space-between;
-margin-left: 20%;
-}
-}
-@media screen{
-#container10{
-display: flex;
-gap: 2%;
-}
-}
-@media screen{
-#container11{
-display: flex;
-justify-content:space-evenly ;
-gap: 2%;
-margin-left: 20%;
-}
-}
-@media screen{
-#container12{
-display: flex;
 justify-content: space-evenly;
-}
-}
-@media screen{
-#container13{
-display: flex;
-}
-}
-@media screen{
-#container14{
-display: flex;
-}
-}
-@media screen{
-#page1{
-display: flex;
-justify-content: space-evenly;
-}
-}
-@media screen{
-#size{
-margin-block-end: 0;
 
 }
+#container8{
+margin-left: 20%;
 }
- @media screen{
-#page2{
+#page1{
 display: flex;
-gap:2% ;
+gap: 2%;
+
 }
+#page2{
+display: grid;
+grid-template-columns: auto auto auto;
+
 }
+#page4{
+display: flex;
+}
+#page6{
+display: flex;
+}
+#page3{
+display: flex;
+}
+#footer{
+display: flex;
+justify-content: space-between;
+}
+
+
+
+
+
